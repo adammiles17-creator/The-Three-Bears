@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Iosevka+Charon);
+
+body {
+  margin: 20px;
+  background-color: lightgrey
+}
+p {
+ font-family:'Iosevka Charon';
+ color:rgb(100, 150, 30);
+ background-color: white
+}
+
+h1 {
+ background-color: white;
+ text-align:center;
+}
+
+h2 {
+  text-align: center;
+  background-color: white;
+  font-size:15px;
+}
+
+
+a {
+  text-decoration:none;
+}
+
+img {
+  border-radius: 20px;
+  margin-left: 750px;
+  margin-right: 700px;
+  border: 5px solid green
+}
+
+
